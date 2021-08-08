@@ -1,0 +1,16 @@
+PODS:
+  - JXFoundation (0.1.0)
+
+DEPENDENCIES:
+  - JXFoundation (from `../`)
+
+EXTERNAL SOURCES:
+  JXFoundation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JXFoundation: ad48e28ad7bef45761fea57c98ea720ea09136e3
+
+PODFILE CHECKSUM: 64402f95c3eb1dbde8e22b22ec620f60549dd885
+
+COCOAPODS: 1.10.1
