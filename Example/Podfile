@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'JXFoundation_Example' do
+  pod 'JXFoundation', :path => '../'
+
+  target 'JXFoundation_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
